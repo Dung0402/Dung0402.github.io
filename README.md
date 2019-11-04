@@ -4,7 +4,7 @@ Group: 4
 
 Link web: https://dung0402.github.io/
 
-Go to project-Document folder for read reports and instructions
+Click folder “project-documents” to see file reports, review, user guide.
 
 My team member:
 
