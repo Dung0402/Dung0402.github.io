@@ -4,6 +4,8 @@ Group: 4
 
 Link web: https://dung0402.github.io/
 
+Go to project-Document folder for read reports and instructions
+
 My team member:
 
 Student1215618
