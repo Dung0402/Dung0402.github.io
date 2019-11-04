@@ -1,5 +1,8 @@
-# Dung0402.github.io
-Project semester I at APTECH FPT class: T1.1907.M0
+Project semester I at APTECH FPT class: T1.1907.M0 
+
+Group: 4
+
+Link web: https://dung0402.github.io/
 
 My team member:
 
